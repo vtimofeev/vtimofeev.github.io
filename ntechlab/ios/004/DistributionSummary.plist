@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ffsec.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>D28404533E9CC63287BC69AB20CDB54921091599</string>
+				<key>dateExpires</key>
+				<string>16.09.2021</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>577RAG5643.com.ntechlab.ffsec</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>577RAG5643</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>ffsec.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>2d05d0d9-9339-4284-a423-7eaae58a7cb4</string>
+				<key>name</key>
+				<string>iOS Team Inhouse Provisioning Profile: com.ntechlab.ffsec</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>577RAG5643</string>
+				<key>name</key>
+				<string>N-TECH.LAB LTD</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

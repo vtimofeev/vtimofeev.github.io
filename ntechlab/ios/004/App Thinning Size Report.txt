@@ -1,0 +1,85 @@
+
+App Thinning Size Report for All Variants of ffsec
+
+Variant: ffsec-52ED0B8F-0471-442A-8B98-4786A9D2039C.ipa
+Supported variant descriptors: [device: iPhone11,8, os-version: 13.0] and [device: iPhone12,1, os-version: 13.0]
+App + On Demand Resources size: 5,5 MB compressed, 17,8 MB uncompressed
+App size: 5,5 MB compressed, 17,8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ffsec-573A0822-D75C-4B37-912A-CCC82A3DE409.ipa
+Supported variant descriptors: [device: iPhone11,8, os-version: 12.0] and [device: iPhone11,8, os-version: 12.2]
+App + On Demand Resources size: 5,5 MB compressed, 17,8 MB uncompressed
+App size: 5,5 MB compressed, 17,8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ffsec-59087CF9-644B-4E16-B381-FF03ECA643F6.ipa
+Supported variant descriptors: [device: iPad3,2, os-version: 9.0], [device: iPad3,4, os-version: 9.0], [device: iPad3,5, os-version: 9.0], [device: iPad3,1, os-version: 9.0], [device: iPad3,6, os-version: 9.0], and [device: iPad3,3, os-version: 9.0]
+App + On Demand Resources size: 5,7 MB compressed, 17,1 MB uncompressed
+App size: 5,7 MB compressed, 17,1 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ffsec-5CCAB5CD-93AF-4274-9197-8B24E765D4CE.ipa
+Supported variant descriptors: [device: iPhone10,2, os-version: 13.0], [device: iPhone11,6, os-version: 13.0], [device: iPhone9,2, os-version: 13.0], [device: iPhone10,3, os-version: 13.0], [device: iPhone8,2, os-version: 13.0], [device: iPhone12,3, os-version: 13.0], [device: iPhone9,4, os-version: 13.0], [device: iPhone12,5, os-version: 13.0], [device: iPhone10,5, os-version: 13.0], [device: iPhone10,6, os-version: 13.0], [device: iPhone11,2, os-version: 13.0], and [device: iPhone11,4, os-version: 13.0]
+App + On Demand Resources size: 5,5 MB compressed, 17,8 MB uncompressed
+App size: 5,5 MB compressed, 17,8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ffsec-600F5ED1-2C18-48B7-8B54-7398D28FE74B.ipa
+Supported variant descriptors: [device: iPhone9,1, os-version: 13.0], [device: iPhone9,3, os-version: 13.0], [device: iPhone10,4, os-version: 13.0], [device: iPod9,1, os-version: 13.0], [device: iPhone8,1, os-version: 13.0], [device: iPhone10,1, os-version: 13.0], and [device: iPhone8,4, os-version: 13.0]
+App + On Demand Resources size: 5,5 MB compressed, 17,8 MB uncompressed
+App size: 5,5 MB compressed, 17,8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ffsec-773206A8-D6DA-4834-9B4A-D160CE4BD1B9.ipa
+Supported variant descriptors: [device: iPod5,1, os-version: 9.0], [device: iPhone4,1, os-version: 9.0], [device: iPhone5,4, os-version: 9.0], [device: iPhone5,1, os-version: 9.0], [device: iPhone5,2, os-version: 9.0], and [device: iPhone5,3, os-version: 9.0]
+App + On Demand Resources size: 5,7 MB compressed, 17,1 MB uncompressed
+App size: 5,7 MB compressed, 17,1 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ffsec-81A0A261-EADD-4AEE-B44D-F675E6D1465C.ipa
+Supported variant descriptors: [device: iPad5,2, os-version: 12.2], [device: iPad8,3, os-version: 12.2], [device: iPad7,2, os-version: 12.2], [device: iPad4,5, os-version: 9.0], [device: iPad4,3, os-version: 12.2], [device: iPad4,7, os-version: 9.0], [device: iPad6,8, os-version: 12.2], [device: iPad8,5, os-version: 12.0], [device: iPad7,6, os-version: 12.0], [device: iPad7,5, os-version: 12.0], [device: iPad7,4, os-version: 12.0], [device: iPad8,1, os-version: 12.0], [device: iPad8,4, os-version: 12.2], [device: iPad6,12, os-version: 12.2], [device: iPad7,2, os-version: 12.0], [device: iPad8,1, os-version: 12.2], [device: iPad7,3, os-version: 12.2], [device: iPad11,3, os-version: 12.2], [device: iPad4,6, os-version: 12.2], [device: iPad6,8, os-version: 12.0], [device: iPad7,4, os-version: 12.2], [device: iPad8,3, os-version: 12.0], [device: iPad7,4, os-version: 10.0], [device: iPad6,11, os-version: 12.0], [device: iPad7,5, os-version: 12.2], [device: iPad4,6, os-version: 9.0], [device: iPad7,3, os-version: 12.0], [device: iPad8,5, os-version: 12.2], [device: iPad4,3, os-version: 12.0], [device: iPad8,4, os-version: 12.0], [device: iPad5,1, os-version: 12.2], [device: iPad5,3, os-version: 12.2], [device: iPad4,9, os-version: 12.2], [device: iPad4,7, os-version: 12.0], [device: iPad4,4, os-version: 12.0], [device: iPad4,5, os-version: 12.0], [device: iPad5,3, os-version: 12.0], [device: iPad5,4, os-version: 9.0], [device: iPad8,6, os-version: 12.0], [device: iPad7,2, os-version: 10.0], [device: iPad4,2, os-version: 12.2], [device: iPad4,2, os-version: 9.0], [device: iPad6,4, os-version: 12.2], [device: iPad7,1, os-version: 10.0], [device: iPad4,9, os-version: 12.0], [device: iPad11,1, os-version: 12.2], [device: iPad4,9, os-version: 9.0], [device: iPad4,1, os-version: 12.0], [device: iPad11,2, os-version: 12.2], [device: iPad4,8, os-version: 9.0], [device: iPad4,8, os-version: 12.2], [device: iPad4,2, os-version: 12.0], [device: iPad5,1, os-version: 12.0], [device: iPad6,3, os-version: 12.0], [device: iPad8,2, os-version: 12.2], [device: iPad5,2, os-version: 9.0], [device: iPad6,11, os-version: 12.2], [device: iPad6,11, os-version: 10.0], [device: iPad11,4, os-version: 12.2], [device: iPad5,3, os-version: 9.0], [device: iPad5,4, os-version: 12.2], [device: iPad4,1, os-version: 12.2], [device: iPad6,7, os-version: 12.0], [device: iPad7,1, os-version: 12.0], [device: iPad4,4, os-version: 9.0], [device: iPad4,1, os-version: 9.0], [device: iPad6,7, os-version: 9.0], [device: iPad6,7, os-version: 12.2], [device: iPad4,7, os-version: 12.2], [device: iPad6,3, os-version: 9.0], [device: iPad7,6, os-version: 11.0], [device: iPad8,8, os-version: 12.2], [device: iPad6,12, os-version: 10.0], [device: iPad6,3, os-version: 12.2], [device: iPad6,4, os-version: 9.0], [device: iPad6,4, os-version: 12.0], [device: iPad8,6, os-version: 12.2], [device: iPad7,6, os-version: 12.2], [device: iPad7,3, os-version: 10.0], [device: iPad4,8, os-version: 12.0], [device: iPad4,3, os-version: 9.0], [device: iPad6,8, os-version: 9.0], [device: iPad5,4, os-version: 12.0], [device: iPad7,5, os-version: 11.0], [device: iPad4,6, os-version: 12.0], [device: iPad4,5, os-version: 12.2], [device: iPad7,1, os-version: 12.2], [device: iPad6,12, os-version: 12.0], [device: iPad8,7, os-version: 12.2], [device: iPad8,8, os-version: 12.0], [device: iPad5,2, os-version: 12.0], [device: iPad5,1, os-version: 9.0], [device: iPad8,7, os-version: 12.0], [device: iPad4,4, os-version: 12.2], and [device: iPad8,2, os-version: 12.0]
+App + On Demand Resources size: 5,5 MB compressed, 17,8 MB uncompressed
+App size: 5,5 MB compressed, 17,8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ffsec-92CF70A8-3A7D-4550-A57D-FA46D40E68EC.ipa
+Supported variant descriptors: [device: iPhone7,1, os-version: 9.0], [device: iPhone10,3, os-version: 11.0], [device: iPhone11,2, os-version: 12.0], [device: iPhone10,3, os-version: 12.0], [device: iPhone10,6, os-version: 12.0], [device: iPhone10,2, os-version: 12.0], [device: iPhone11,4, os-version: 12.0], [device: iPhone10,6, os-version: 12.2], [device: iPhone11,6, os-version: 12.2], [device: iPhone10,5, os-version: 12.0], [device: iPhone9,2, os-version: 12.0], [device: iPhone10,3, os-version: 12.2], [device: iPhone11,4, os-version: 12.2], [device: iPhone9,2, os-version: 12.2], [device: iPhone8,2, os-version: 12.0], [device: iPhone9,4, os-version: 10.0], [device: iPhone10,5, os-version: 12.2], [device: iPhone8,2, os-version: 12.2], [device: iPhone8,2, os-version: 9.0], [device: iPhone11,6, os-version: 12.0], [device: iPhone11,2, os-version: 12.2], [device: iPhone10,5, os-version: 11.0], [device: iPhone9,2, os-version: 10.0], [device: iPhone9,4, os-version: 12.0], [device: iPhone10,2, os-version: 12.2], [device: iPhone7,1, os-version: 12.2], [device: iPhone10,6, os-version: 11.0], [device: iPhone9,4, os-version: 12.2], [device: iPhone10,2, os-version: 11.0], and [device: iPhone7,1, os-version: 12.0]
+App + On Demand Resources size: 5,5 MB compressed, 17,8 MB uncompressed
+App size: 5,5 MB compressed, 17,8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ffsec-9B2D3840-8BF9-40C7-89FB-E9C31131E79A.ipa
+Supported variant descriptors: [device: iPad2,6, os-version: 9.0], [device: iPad2,3, os-version: 9.0], [device: iPad2,5, os-version: 9.0], [device: iPad2,7, os-version: 9.0], [device: iPad2,1, os-version: 9.0], [device: iPad2,2, os-version: 9.0], and [device: iPad2,4, os-version: 9.0]
+App + On Demand Resources size: 5,7 MB compressed, 17,1 MB uncompressed
+App size: 5,7 MB compressed, 17,1 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ffsec-E0516302-3B97-4570-8108-67A425CD56E7.ipa
+Supported variant descriptors: [device: iPad7,2, os-version: 13.0], [device: iPad6,4, os-version: 13.0], [device: iPad11,4, os-version: 13.0], [device: iPad7,4, os-version: 13.0], [device: iPad8,1, os-version: 13.0], [device: iPad8,3, os-version: 13.0], [device: iPad8,8, os-version: 13.0], [device: iPad5,3, os-version: 13.0], [device: iPad6,3, os-version: 13.0], [device: iPad5,2, os-version: 13.0], [device: iPad6,7, os-version: 13.0], [device: iPad7,6, os-version: 13.0], [device: iPad7,5, os-version: 13.0], [device: iPad6,12, os-version: 13.0], [device: iPad8,5, os-version: 13.0], [device: iPad11,2, os-version: 13.0], [device: iPad5,1, os-version: 13.0], [device: iPad6,8, os-version: 13.0], [device: iPad5,4, os-version: 13.0], [device: iPad7,11, os-version: 13.0], [device: iPad8,4, os-version: 13.0], [device: iPad11,1, os-version: 13.0], [device: iPad7,1, os-version: 13.0], [device: iPad7,12, os-version: 13.0], [device: iPad6,11, os-version: 13.0], [device: iPad8,7, os-version: 13.0], [device: iPad8,2, os-version: 13.0], [device: iPad8,6, os-version: 13.0], [device: iPad7,3, os-version: 13.0], and [device: iPad11,3, os-version: 13.0]
+App + On Demand Resources size: 5,5 MB compressed, 17,8 MB uncompressed
+App size: 5,5 MB compressed, 17,8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ffsec-E5E67841-F864-4906-A378-E8B244766D36.ipa
+Supported variant descriptors: [device: iPod7,1, os-version: 12.2], [device: iPhone6,1, os-version: 12.0], [device: iPhone6,2, os-version: 12.0], [device: iPhone10,1, os-version: 12.0], [device: iPhone10,4, os-version: 12.0], [device: iPhone8,1, os-version: 12.2], [device: iPhone9,3, os-version: 10.0], [device: iPod7,1, os-version: 9.0], [device: iPhone7,2, os-version: 12.2], [device: iPhone9,1, os-version: 10.0], [device: iPhone10,1, os-version: 11.0], [device: iPhone10,1, os-version: 12.2], [device: iPhone10,4, os-version: 11.0], [device: iPhone7,2, os-version: 12.0], [device: iPhone10,4, os-version: 12.2], [device: iPhone8,4, os-version: 12.0], [device: iPhone7,2, os-version: 9.0], [device: iPod7,1, os-version: 12.0], [device: iPhone8,1, os-version: 12.0], [device: iPhone6,1, os-version: 9.0], [device: iPhone9,3, os-version: 12.0], [device: iPhone6,2, os-version: 12.2], [device: iPhone8,4, os-version: 9.0], [device: iPhone9,1, os-version: 12.0], [device: iPhone8,4, os-version: 12.2], [device: iPhone9,3, os-version: 12.2], [device: iPhone8,1, os-version: 9.0], [device: iPhone6,2, os-version: 9.0], [device: iPhone9,1, os-version: 12.2], [device: iPod9,1, os-version: 12.2], and [device: iPhone6,1, os-version: 12.2]
+App + On Demand Resources size: 5,5 MB compressed, 17,8 MB uncompressed
+App size: 5,5 MB compressed, 17,8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ffsec.ipa
+Supported variant descriptors: Universal
+App + On Demand Resources size: 7,6 MB compressed, 22,5 MB uncompressed
+App size: 7,6 MB compressed, 22,5 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
