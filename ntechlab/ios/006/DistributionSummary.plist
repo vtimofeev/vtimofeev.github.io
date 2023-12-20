@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FFMultiMobile.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>829278AB2E202C08C2876E1A4DE0AFB0582E49CB</string>
+				<key>dateExpires</key>
+				<string>22.10.2024</string>
+				<key>type</key>
+				<string>Cloud Managed iOS Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>0.12.0</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>829278AB2E202C08C2876E1A4DE0AFB0582E49CB</string>
+						<key>dateExpires</key>
+						<string>22.10.2024</string>
+						<key>type</key>
+						<string>Cloud Managed iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>hermes.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>577RAG5643</string>
+						<key>name</key>
+						<string>N-TECH.LAB LTD</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>0.12.0</string>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>577RAG5643.com.ntech.ffmulti.ios</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>577RAG5643</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>FFMultiMobile.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>4994f338-c5f8-417a-82d9-1a15cc6670ef</string>
+				<key>dateExpires</key>
+				<string>22.10.2024</string>
+				<key>name</key>
+				<string>iOS Team Inhouse Provisioning Profile: com.ntech.ffmulti.ios</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>577RAG5643</string>
+				<key>name</key>
+				<string>N-TECH.LAB LTD</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
