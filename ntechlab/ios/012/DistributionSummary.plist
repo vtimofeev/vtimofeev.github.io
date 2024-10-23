@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FFMultiMobile.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>4233C80A58161DC96727D76ADF7D7DE75A26D416</string>
+				<key>dateExpires</key>
+				<string>03.10.2027</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>0.12.0</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>4233C80A58161DC96727D76ADF7D7DE75A26D416</string>
+						<key>dateExpires</key>
+						<string>03.10.2027</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>hermes.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>577RAG5643</string>
+						<key>name</key>
+						<string>N-TECH.LAB LTD</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>0.12.0</string>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>577RAG5643.com.ntech.ffmulti.ios</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>577RAG5643</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>FFMultiMobile.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>31d39402-962d-40cb-98b2-fc299db68ed2</string>
+				<key>dateExpires</key>
+				<string>03.10.2025</string>
+				<key>name</key>
+				<string>iOS Team Inhouse Provisioning Profile: com.ntech.ffmulti.ios</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>577RAG5643</string>
+				<key>name</key>
+				<string>N-TECH.LAB LTD</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>0.5.1</string>
+		</dict>
+	</array>
+</dict>
+</plist>
